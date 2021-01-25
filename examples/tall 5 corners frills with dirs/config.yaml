@@ -8,11 +8,12 @@ north_end: 16
 south_start: 16
 south_end: 16
 
-output_icon_size_x: 64
-output_icon_size_y: 64
-output_west_start: 16
+output_icon_size_x: 32
+output_icon_size_y: 32
+output_west_start: 0
+output_north_start: 16
 
-produce_dirs: true
+produce_dirs: false
 
 se_convex: 0
 nw_convex: 0
